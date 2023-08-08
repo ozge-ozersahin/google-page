@@ -1,0 +1,70 @@
+.navbar {
+  font-family: "Times New Roman", Times, serif;
+  font-style: italic;
+  background-color: #e0ffcd;
+}
+.right {
+  float: right;
+}
+.about {
+  color: #008080;
+  text-decoration: none;
+  font-size: large;
+}
+.store {
+  text-decoration: none;
+  color: #008080;
+  font-size: large;
+  margin: 10px;
+}
+
+.gmail {
+  text-decoration: none;
+  color: #008080;
+  font-size: large;
+}
+.images {
+  text-decoration: none;
+  color: #008080;
+  font-size: large;
+  margin: 10px;
+}
+
+.icon {
+  text-decoration: none;
+  color: #008080;
+  height: 21px;
+  width: 21px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  font-size: large;
+}
+
+.Google {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 25%;
+  margin: auto;
+}
+
+.search {
+  padding: 5px;
+  border-radius: 15px;
+  position: absolute;
+  bottom: 45%;
+  margin-left: 35%;
+  margin-right: 35%;
+  left: 0;
+  right: 0;
+  background-color: #ffd3b6;
+}
+.twobutton {
+  position: absolute;
+  position: absolute;
+  bottom: 40%;
+  margin-left: 40%;
+  color: white;
+}
